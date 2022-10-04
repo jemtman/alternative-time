@@ -2,6 +2,11 @@ A project currently known as:
 # "Timely Time"
  _A universal time format to draw ire._
 
+## To run: 
+- You'll need [python]("https://www.python.org/") installed on your computer. 
+- You'll also need to [install the python packages]("https://www.w3schools.com/python/python_pip.asp") listed in `requirements.txt`
+- From there, you can open the `.py` file in the main folder.  
+
 ## A displeasure with timezones
 I loathe timezones and daylight savings time.  It's near impossible to know what time it is somewhere else in the world without looking it up on online. Timezones are also political and incredibly imprecise.  
 
