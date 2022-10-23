@@ -1,5 +1,5 @@
 A project currently known as: 
-# "Timely Time"
+# "Earth Friendly Time Format" (EFTF)
  _A universal time format to draw ire._
 
 ## To run: 
